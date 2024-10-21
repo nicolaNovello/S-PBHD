@@ -24,7 +24,7 @@ Official repository of the paper "Human Detection Based on Learning and Classifi
 
 ## Matlab part
 
-(Coming soon...)
+Assume to have collected the S-parameters using a four-port Vector Network Analyzer (VNA). To pre-process the data using the Para Hermitian Eigenvalue Decomposition method, follow [these instructions](https://github.com/nicolaNovello/S-PBHD/tree/main/MatlabPreProcessing). 
 
 ## Python part
 
