@@ -10,6 +10,13 @@ Official repository of the paper "Human Detection Based on Learning and Classifi
 
 > Algorithm for human detection based on a novel technique for pre-processing the scattering parameters and on a recently proposed new objective function for classification.
 
+<div align="center">
+
+[![license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/nicolaNovello/S-PBHD/blob/main/LICENSE)
+[![Hits](https://hits.sh/github.com/nicolaNovello/S-PBHD.svg?label=Visitors&color=30a704)](https://hits.sh/github.com/nicolaNovello/S-PBHD/)
+
+</div>
+
 ---
 
 # 📷 Scenario
