@@ -8,7 +8,7 @@ Frank E. Ebong, [Nicola Novello](https://scholar.google.com/citations?user=4PPM0
 
 Official repository of the paper "Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition" published at IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 2024. 
 
-> Algorithm for human detection based on a novel technique of data processing of scattering parameters and on a recently proposed new objective function for classification.
+> Algorithm for human detection based on a novel technique for pre-processing the scattering parameters and on a recently proposed new objective function for classification.
 
 ---
 
