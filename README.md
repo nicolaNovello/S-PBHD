@@ -49,7 +49,7 @@ The files `main_functions.py`, `classes.py`, and `utils.py` comprise the needed 
 
 ## 📝 References
 
-If you use this code for your research, please cite our paper (coming soon):
+If you use this code for your research, please cite our paper:
 ```
 @inproceedings{ebong2024human,
   title={Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition},
